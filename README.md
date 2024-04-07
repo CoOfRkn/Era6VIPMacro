@@ -1,1 +1,1 @@
-This is my first time posting something on github, please comment if something sis wrong with it. The macro's should auto fix themselves, Non VIP version coming soon!
+This is my first time posting something on github, please comment if something is wrong with it. The macro's should auto fix themselves, just give it enough time. Non VIP (without shiftlock) version coming soon!
